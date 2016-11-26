@@ -1,5 +1,28 @@
-Adventure Time, Gwen Ifill, Leonard Cohen, Janet Reno, Jerome Silberman, Jon
-          Polito, Prince Buster, Crazy Eddie, Arnold Palmer, David Bowie, Alan Rickman, Marvin Minksy, Glenn
-          Frey, Abe Vigoda, Terry Wogan, Butros-Butros Gali, Umberto Eco, Harper Lee, Garry Shandling, Patty
-          Due, Alan Young, Muhammad Ali, Gordie Howe, Garry Marshall, Kenny Baker, Rober Vaungh, Florence
-          Henderson
+Adventure Time
+Gwen Ifill
+Leonard Cohen
+Janet Reno
+Jerome Silberman
+Jon Polito
+Prince Buster
+Crazy Eddie
+Arnold Palmer
+David Bowie
+Alan Rickman
+Marvin Minksy
+Glenn Frey
+Abe Vigoda
+Terry Wogan
+Butros-Butros Gali
+Umberto Eco
+Harper Lee
+Garry Shandling
+Patty Duke
+Alan Young
+Muhammad Ali
+Gordie Howe
+Garry Marshall
+Kenny Baker
+Rober Vaungh
+Florence Henderson
+Fidel Castro
